@@ -24,7 +24,7 @@ namespace Task_3
                 Console.WriteLine("You are an adult.");
             }
 
-            Console.ReadLine(); // Keep console open
+            Console.ReadLine(); 
         }
     }
 }
