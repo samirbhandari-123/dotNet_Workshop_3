@@ -21,8 +21,8 @@ namespace Task_2
             //  username:?? "Username is not avaibale"; // it gives an error,
 
             // Using Null-Coalescing Operator
-            Console.WriteLine("Null-Coalescing Operator: " + (username ?? "Username is not available")); 
-                                                                                                         
+            Console.WriteLine("Null-Coalescing Operator: " + (username ?? "Username is not available"));
+
 
             // Using Null-Coalescing Assignment Operator
             username ??= "DefaultUser";
@@ -30,3 +30,4 @@ namespace Task_2
         }
     }
 }
+
