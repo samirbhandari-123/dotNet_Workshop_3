@@ -10,7 +10,7 @@ namespace Task_1
             // Create object of Operators class
             Operators op = new Operators();
 
-            // Take user input for operations
+            // Taking user input for operations
             Console.Write("Enter first number: ");
             int a = Convert.ToInt32(Console.ReadLine());
 
